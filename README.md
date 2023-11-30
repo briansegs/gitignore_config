@@ -1,1 +1,1 @@
-# gitignore-config
+# gitignore_config
